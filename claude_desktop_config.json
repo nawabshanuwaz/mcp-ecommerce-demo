@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ecommerce-demo": {
+      "command": "C:\\Absolute\\Path\\To\\Your\\Python\\python.exe",
+      "args": [
+        "C:\\Absolute\\Path\\To\\Your\\Downloads\\ecommerce_demo.py"
+      ]
+    }
+  }
+}
